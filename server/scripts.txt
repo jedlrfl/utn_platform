@@ -1,0 +1,17 @@
+//linea de comando
+
+#crea el proyecto
+npm init 
+
+#agrega mongoose
+npm install mongoose
+
+npm install express
+
+#instala nodemon global para servidor de pruebas local
+npm install nodemon -g
+
+
+npm install bcryptjs
+
+npm install jsonwebtoken
